@@ -1,0 +1,8 @@
+A) Qual função do comando Git Add?
+R: O comando serve para adicionar arquivo e realizar altreações.
+
+B) Qual é a função do comando Git Commit -M?
+R: função serve para gravar ou adicionar comando.
+
+C) Qual é a função do comando Git Init?
+R: Serve para criação de repositorio.
