@@ -1,0 +1,11 @@
+A) Qual é a função da placa de video?
+R: A função é de transmitir as imagens para o monitor.
+
+B) O que é sistema operacional?
+R: O sistema operacional refe-se a um software que tem como papel gerenciar e administrar todos os recursos de um sistema.
+
+C) Qual é diferençã entre HD e SSD?
+R:HD é um dispositivo antigo de armazemanto e o SSD é dispositivo mais novo e rápido de armazenamento.
+
+D) Qual é a função do Coller?
+R: A função principal de um Coller é o resfriamento e tambem para resolver problemas de alto aquecimento de componentes.
