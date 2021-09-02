@@ -1,0 +1,14 @@
+1) O que é backup?
+R:Backup é a cópia de segurança de dados de armazenamento.
+
+2) O que é hardware?
+R:Hardware é um equipamento  ou meio fisico de um computador.
+
+3) Qual é a diferençã entre on board e off board?
+R:Onboard fica acoplada a placa mãe e Offboard é a que fica a parte para instalação posterior.
+
+4) Qual é a função Hard Disk?
+R:Serve para armazenar  arquivos e conteudos.
+
+5) Descreva sobre memoria RAM.
+R: A memóroria RAm é responsavel por dar agilidade e velocidade no funcionamento de um sistema.
